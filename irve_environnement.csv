@@ -1,0 +1,164 @@
+ID_IRVE;AdresseVille;typeQuartier;TypeEmplacement;CentreVille;Type_commune;Nb_habitants
+15145260;Castres;Administrations;voirie;non;4_Ville_Moyenne;41338
+16101777;Nîmes;Administrations;Grande_voie;non;5_Grande_Ville;151001
+16190212;Guingamp;ZAC;Grande_voie;non;3_Petite_Ville;6899
+16190229;Merdrignac;Administrations;Grande_voie;non;2_Bourg;2940
+16195843;Rostrenen;ZAC;Grande_voie;non;2_Bourg;3062
+16225032;Bouillargues;CV;voirie;classique;3_Petite_Ville;6338
+16248080;Albi;ZAC;Grande_voie;non;4_Ville_Moyenne;49024
+16250627;Mus;CV;Grande_voie;calme;1_Village;1397
+16251440;Saint-Sever;CV;voirie;classique;2_Bourg;4958
+16275553;Saint-Rome-de-Tarn;CV;voirie;classique;1_Village;872
+16284482;Sailly-Flibeaucourt;Autoroute;Autoroute;non;1_Village;1039
+16303380;Saint-Jacut-de-la-Mer;CV;voirie;classique;1_Village;906
+16330012;Nîmes;Administrations;voirie;non;5_Grande_Ville;151001
+16333102;Nîmes;ZAC;Grande_voie;non;5_Grande_Ville;151001
+16363544;Nîmes;ZAC;Grande_voie;non;5_Grande_Ville;151001
+16363546;Nîmes;CV;voirie;dynamique;5_Grande_Ville;151001
+16403972;Le Plessis-Bouchard;CV;voirie;calme;3_Petite_Ville;8230
+16404380;Biarritz;CV;voirie;dynamique;4_Ville_Moyenne;24777
+16409170;Uzès;CV;Parking;dynamique;3_Petite_Ville;8491
+16416243;Landivisiau;ZAC;Grande_voie;non;3_Petite_Ville;9123
+16417127;Cormeilles-en-Parisis;Administrations;voirie;non;4_Ville_Moyenne;23924
+16435103;Nîmes;CV;voirie;dynamique;5_Grande_Ville;151001
+16447950;Saint-Paul-lès-Dax;CV;voirie;dynamique;3_Petite_Ville;13092
+16455672;Urvillers;Autoroute;Autoroute;non;1_Village;648
+16502023;Arromanches-les-Bains;CV;voirie;classique;1_Village;503
+16523626;Colayrac-Saint-Cirq;CV;voirie;classique;2_Bourg;3042
+16535540;Castelnau-d'Estrétefonds;ZAC;Grande_voie;non;3_Petite_Ville;6226
+16547451;Lorient;CV;voirie;dynamique;5_Grande_Ville;57274
+16567750;Belz;CV;voirie;classique;2_Bourg;3725
+16578229;Nort-sur-Erdre;CV;Parking;classique;3_Petite_Ville;8651
+16584520;Sisteron;ZAC;Grande_voie;non;3_Petite_Ville;7341
+16591596;La Frette-sur-Seine;CV;voirie;classique;2_Bourg;4668
+16598788;Saint-Brevin-les-Pins;CV;voirie;dynamique;3_Petite_Ville;13778
+16610845;Saint-Geniès-de-Malgoirès;CV;voirie;calme;2_Bourg;2991
+16614388;Fargues-Saint-Hilaire;CV;voirie;classique;2_Bourg;2860
+16617076;Langrune-sur-Mer;CV;Parking;dynamique;1_Village;1766
+16631047;Le Grau-du-Roi;CV;voirie;dynamique;3_Petite_Ville;8476
+16631048;Le Grau-du-Roi;gare;gare;classique;3_Petite_Ville;8476
+16631052;Le Grau-du-Roi;CV;voirie;dynamique;3_Petite_Ville;8476
+16631102;Lafrançaise;CV;voirie;dynamique;2_Bourg;2860
+16644501;Bernin;Hotels;Grande_voie;non;2_Bourg;3097
+16677209;Montauban;CV;voirie;dynamique;5_Grande_Ville;60444
+16692798;Roquettes;CV;voirie;dynamique;2_Bourg;4103
+16695710;Lourdes;CV;voirie;dynamique;3_Petite_Ville;13651
+16702484;Pleumeur-Bodou;CV;Grande_voie;calme;2_Bourg;3968
+16704040;Montauban;CV;voirie;dynamique;5_Grande_Ville;60444
+16717252;Grisolles;CV;voirie;classique;2_Bourg;4056
+16728842;Ifs;CV;voirie;classique;3_Petite_Ville;11768
+16742774;Saint-Hippolyte-du-Fort;CV;Grande_voie;classique;2_Bourg;3937
+16754503;Joué-lès-Tours;CV;Parking;dynamique;4_Ville_Moyenne;37505
+16759693;Saze;ZAC;Grande_voie;non;2_Bourg;2022
+16791168;Anduze;Administrations;voirie;non;2_Bourg;3484
+16807036;Pleslin-Trigavou;CV;voirie;calme;2_Bourg;3578
+16809249;Languenan;CV;voirie;calme;1_Village;1165
+16817109;Libourne;CV;voirie;dynamique;4_Ville_Moyenne;24880
+16817260;Binic;CV;voirie;classique;2_Bourg;3800
+16836074;Bagnères-de-Bigorre;ZAC;Grande_voie;non;3_Petite_Ville;7404
+16847847;Trie-sur-Baïse;ZAC;Grande_voie;non;1_Village;1062
+16857939;Sainte-Eulalie;ZAC;Echangeur;non;2_Bourg;4547
+16872249;Guémené-sur-Scorff;CV;voirie;classique;1_Village;1082
+16895818;Longvilliers;CV;voirie;calme;1_Village;500
+16900423;Mirabel;CV;Grande_voie;calme;1_Village;1029
+16905378;Malause;CV;voirie;classique;1_Village;1156
+16919633;Saint-Étienne-du-Rouvray;ZAC;Grande_voie;non;4_Ville_Moyenne;28696
+16928029;Bergerac;CV;voirie;dynamique;4_Ville_Moyenne;27269
+16933020;Lorient;ZAC;Grande_voie;non;5_Grande_Ville;57274
+16933113;Fougères;CV;Parking;classique;4_Ville_Moyenne;20194
+16935008;Anglet;CV;voirie;dynamique;4_Ville_Moyenne;38663
+16936002;Bourges;ZAC;Grande_voie;non;5_Grande_Ville;65555
+16936006;Les Petites-Loges;Autoroute;Autoroute;non;1_Village;490
+16936037;Les Petites-Loges;Autoroute;Autoroute;non;1_Village;490
+16942982;Cerisé;ZAC;Grande_voie;non;1_Village;859
+16971077;Caen;CV;voirie;dynamique;5_Grande_Ville;105403
+16972340;Mézières-en-Brenne;CV;voirie;classique;1_Village;1021
+16974232;Congénies;CV;voirie;calme;1_Village;1648
+16976029;Courseulles-sur-Mer;CV;voirie;dynamique;2_Bourg;4156
+16979272;Rennes;ZAC;Echangeur;non;5_Grande_Ville;216268
+16996978;Questembert;gare;gare;classique;3_Petite_Ville;7454
+17031051;La Trinité-sur-Mer;CV;voirie;classique;1_Village;1613
+17044553;Plobannalec-Lesconil;CV;Grande_voie;calme;2_Bourg;3457
+17046671;Séné;CV;voirie;classique;3_Petite_Ville;8949
+17050040;Coquelles;Autoroute;Autoroute;non;2_Bourg;2503
+17051471;Larmor-Plage;CV;voirie;dynamique;3_Petite_Ville;8240
+17054514;Arzon;CV;voirie;classique;2_Bourg;2085
+17062206;Caen;CV;voirie;dynamique;5_Grande_Ville;105403
+17063730;Périgueux;CV;Parking;dynamique;4_Ville_Moyenne;29912
+17080230;Rochefort-du-Gard;ZAC;Grande_voie;non;3_Petite_Ville;7498
+17082257;Coings;Aéroport;Aéroport;non;1_Village;851
+17087327;Vannes;Administrations;Parking;non;5_Grande_Ville;53218
+17110741;Bellême;CV;voirie;dynamique;1_Village;1515
+17117350;Rochefort-en-Yvelines;Hotels;Grande_voie;non;1_Village;895
+17133723;Cernay-la-Ville;CV;voirie;calme;1_Village;1589
+17133728;Bullion;ZAC;Grande_voie;non;1_Village;1922
+17133730;Clairefontaine-en-Yvelines;CV;voirie;calme;1_Village;832
+17139961;Arras;CV;Grande_voie;classique;4_Ville_Moyenne;40883
+17149903;Saint-Dionisy;ZAC;Grande_voie;non;1_Village;1021
+17176856;Barberaz;Administrations;voirie;non;2_Bourg;4646
+17183936;Trébeurden;CV;voirie;classique;2_Bourg;3664
+17183941;Erquy;CV;voirie;classique;2_Bourg;3904
+17192052;Clermont-Ferrand;ZAC;Grande_voie;non;5_Grande_Ville;142686
+17209034;Arcachon;CV;voirie;dynamique;3_Petite_Ville;11121
+17209035;Arcachon;CV;voirie;dynamique;3_Petite_Ville;11121
+17231042;Elven;CV;voirie;dynamique;3_Petite_Ville;5868
+17233012;Crécy-la-Chapelle;CV;voirie;dynamique;2_Bourg;4392
+17233016;La Chapelle-la-Reine;CV;voirie;classique;2_Bourg;2447
+17267084;Saint Rémy-lès-Chevreuse;ZAC;Grande_voie;non;3_Petite_Ville;7800
+17267089;Le Mesnil-Saint-Denis;CV;voirie;calme;3_Petite_Ville;6751
+17274444;Rochecorbon;CV;voirie;dynamique;2_Bourg;3162
+17367089;Périgueux;CV;voirie;dynamique;4_Ville_Moyenne;29912
+17367299;Pontivy;CV;Parking;dynamique;3_Petite_Ville;14491
+17375027;Matougues;Hotels;Grande_voie;non;1_Village;612
+17399437;Josselin;CV;voirie;dynamique;2_Bourg;2504
+17414337;Le Châtelet-en-Brie;Administrations;voirie;non;2_Bourg;4456
+17440794;Lorient;CV;voirie;dynamique;5_Grande_Ville;57274
+17452827;Villeneuve-le-Comte;CV;voirie;classique;1_Village;1859
+17462238;Ouistreham;CV;voirie;dynamique;3_Petite_Ville;9117
+17472645;Auch;CV;voirie;dynamique;4_Ville_Moyenne;21618
+17472646;L'Isle-Jourdain;CV;voirie;dynamique;3_Petite_Ville;8729
+17472648;Auch;CV;Parking;dynamique;4_Ville_Moyenne;21618
+17478076;Jegun;CV;voirie;classique;1_Village;1137
+17480724;Auch;Administrations;voirie;non;4_Ville_Moyenne;21618
+17480726;Auch;Administrations;voirie;non;4_Ville_Moyenne;21618
+17481098;Saint-Soupplets;CV;voirie;classique;2_Bourg;3252
+17485931;Caen;ZAC;Grande_voie;non;5_Grande_Ville;105403
+17485935;Caen;CV;Parking;dynamique;5_Grande_Ville;105403
+17499258;Fontenay-le-Comte;CV;voirie;dynamique;3_Petite_Ville;13424
+17561130;Gressy;Hotels;Grande_voie;non;1_Village;860
+17648868;Armentières-en-Brie;CV;voirie;calme;1_Village;1250
+17675681;Quiberon;CV;Parking;dynamique;2_Bourg;4842
+17678398;Lorient;CV;voirie;dynamique;5_Grande_Ville;57274
+17688295;Vannes;CV;Parking;dynamique;5_Grande_Ville;53218
+17696587;Carnac;CV;Parking;dynamique;2_Bourg;4260
+17938898;Loches;CV;Parking;dynamique;3_Petite_Ville;6283
+17962124;Nogent-Le-Roi;CV;Parking;dynamique;2_Bourg;4132
+18006819;Arrou;CV;voirie;classique;2_Bourg;3808
+18047542;Neufmoutiers-en-Brie;CV;voirie;calme;1_Village;1020
+18062229;Noirmoutier En L'Ile;ZAC;Parking;non;2_Bourg;4675
+18068698;Achères-la-Forêt;CV;voirie;dynamique;1_Village;1139
+18086540;Chailly-en-Brie;CV;voirie;calme;1_Village;1388
+18283534;Presles-en-Brie;CV;voirie;classique;2_Bourg;2302
+18286245;Dammartin-en-Goële;CV;voirie;dynamique;3_Petite_Ville;9644
+18319775;Saint-Fulgent;Administrations;voirie;non;2_Bourg;3787
+18320046;Sorel-Moussel;CV;voirie;classique;1_Village;1798
+18399014;Boufféré;ZAC;Grande_voie;non;2_Bourg;3335
+18433882;Aizenay;CV;voirie;dynamique;3_Petite_Ville;9314
+18512160;Les Sables D'Olonne;gare;gare;classique;4_Ville_Moyenne;43219
+18519893;Les Sables D'Olonne;gare;gare;classique;4_Ville_Moyenne;43219
+18549207;La Roche Sur Yon;CV;voirie;classique;5_Grande_Ville;53741
+18549209;La Roche Sur Yon;CV;voirie;dynamique;5_Grande_Ville;53741
+18549211;La Roche Sur Yon;Administrations;voirie;dynamique;5_Grande_Ville;53741
+18549214;La Roche Sur Yon;ZAC;Grande_voie;non;5_Grande_Ville;53741
+18594522;Pontivy;ZAC;Grande_voie;non;3_Petite_Ville;14491
+18594792;Le Faouët;CV;voirie;classique;2_Bourg;2811
+18595665;Baud;ZAC;Echangeur;non;3_Petite_Ville;6264
+18595984;Ploërmel;ZAC;Grande_voie;non;3_Petite_Ville;9890
+18596028;Vannes;ZAC;Grande_voie;non;5_Grande_Ville;53218
+18596368;Lorient;CV;voirie;classique;5_Grande_Ville;57274
+70025177;Amboise;CV;Parking;classique;3_Petite_Ville;12761
+70129018;Avoine;CV;voirie;classique;1_Village;1736
+77452640;Bordeaux;CV;Parking;classique;5_Grande_Ville;252040
+78976290;Tarbes;CV;voirie;dynamique;4_Ville_Moyenne;40318
+87871392;La Rochette;gare;gare;classique;2_Bourg;3365
+99443934;Menton;ZAC;Grande_voie;non;4_Ville_Moyenne;28486
